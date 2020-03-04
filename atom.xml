@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>hojun</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="/"/>
+  <updated>2020-03-04T05:37:06.740Z</updated>
+  <id>/</id>
+  
+  <author>
+    <name>hojun</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2020/03/04/hello-world/"/>
+    <id>/2020/03/04/hello-world/</id>
+    <published>2020-03-04T05:37:06.740Z</published>
+    <updated>2020-03-04T05:37:06.740Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>测试</title>
+    <link href="/2020/03/03/trashed/"/>
+    <id>/2020/03/03/trashed/</id>
+    <published>2020-03-02T19:28:40.000Z</published>
+    <updated>2020-03-04T06:11:44.972Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>数组去重</title>
+    <link href="/2020/03/02/e6-95-b0-e7-bb-84-e5-8e-bb-e9-87-8d/"/>
+    <id>/2020/03/02/e6-95-b0-e7-bb-84-e5-8e-bb-e9-87-8d/</id>
+    <published>2020-03-02T13:11:41.000Z</published>
+    <updated>2020-03-04T06:11:44.971Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;pre&gt;&lt;code&gt;&amp;lt;!doctype html&amp;gt;
+&amp;lt;html&amp;gt;
+&amp;lt;head&amp;gt;
+&amp;lt;meta
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="Javascript" scheme="/tags/Javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>虚拟主机配置</title>
+    <link href="/2020/02/29/e8-99-9a-e6-8b-9f-e4-b8-bb-e6-9c-ba-e9-85-8d-e7-bd-ae/"/>
+    <id>/2020/02/29/e8-99-9a-e6-8b-9f-e4-b8-bb-e6-9c-ba-e9-85-8d-e7-bd-ae/</id>
+    <published>2020-02-29T13:49:37.000Z</published>
+    <updated>2020-03-04T06:11:44.971Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;一、设置hosts文件&lt;/p&gt;
+&lt;p&gt;1、打开hosts文件&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://blog.weiyueming.ml/wp-content/uploads/2020/02/image-10.png&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="Apache" scheme="/tags/Apache/"/>
+    
+      <category term="PHP" scheme="/tags/PHP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>交换机Telnet</title>
+    <link href="/2020/02/29/e4-ba-a4-e6-8d-a2-e6-9c-batelnet/"/>
+    <id>/2020/02/29/e4-ba-a4-e6-8d-a2-e6-9c-batelnet/</id>
+    <published>2020-02-29T13:38:15.000Z</published>
+    <updated>2020-03-04T06:11:44.971Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;http://blog.weiyueming.ml/wp-content/uploads/2020/02/image-9.png&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="eNSP" scheme="/tags/eNSP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux用户与组管理</title>
+    <link href="/2020/02/29/linux-e7-94-a8-e6-88-b7-e4-b8-8e-e7-bb-84-e7-ae-a1-e7-90-86/"/>
+    <id>/2020/02/29/linux-e7-94-a8-e6-88-b7-e4-b8-8e-e7-bb-84-e7-ae-a1-e7-90-86/</id>
+    <published>2020-02-29T13:01:08.000Z</published>
+    <updated>2020-03-04T06:11:44.971Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Linux是一个多用户多任务的操作系统&lt;/p&gt;
+&lt;p&gt;一、用户管理&lt;/p&gt;
+&lt;p&gt;1、查询当前登录的用户&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;whoami
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="linux" scheme="/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vi编辑器</title>
+    <link href="/2020/02/26/vi-e7-bc-96-e8-be-91-e5-99-a8/"/>
+    <id>/2020/02/26/vi-e7-bc-96-e8-be-91-e5-99-a8/</id>
+    <published>2020-02-26T02:44:21.000Z</published>
+    <updated>2020-03-04T06:11:44.971Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Vi是一个文本编辑器，&lt;/p&gt;
+&lt;p&gt;windows下：记事本、写字板、word&lt;/p&gt;
+&lt;p&gt;linux 下：Vi，Fmacs&lt;/p&gt;
+&lt;p&gt;1、Vi文本编辑器的工作模式&lt;/p&gt;
+&lt;p&gt;·命令模式 键盘输入皆是命令&lt;/p&gt;
+&lt;p&gt;·文本输入模式
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="linux" scheme="/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>js 数组遍历</title>
+    <link href="/2020/02/21/js-e6-95-b0-e7-bb-84-e9-81-8d-e5-8e-86/"/>
+    <id>/2020/02/21/js-e6-95-b0-e7-bb-84-e9-81-8d-e5-8e-86/</id>
+    <published>2020-02-21T12:30:47.000Z</published>
+    <updated>2020-03-04T06:11:44.971Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;pre&gt;&lt;code&gt;&amp;lt;!doctype html&amp;gt;
+&amp;lt;html&amp;gt;
+&amp;lt;head&amp;gt;
+&amp;lt;meta
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="Javascript" scheme="/tags/Javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux rename命令</title>
+    <link href="/2020/02/19/linux-rename-e5-91-bd-e4-bb-a4/"/>
+    <id>/2020/02/19/linux-rename-e5-91-bd-e4-bb-a4/</id>
+    <published>2020-02-19T13:34:19.000Z</published>
+    <updated>2020-03-04T06:11:44.971Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;rename命令用字符串替换的方式批量改变文件名。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;语法&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;rename(参数)
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;参数&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;原字符串：将文件名需要替换的字符串；&lt;/li&gt;
+&lt;l
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="linux" scheme="/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux 文件操作命令(基本)</title>
+    <link href="/2020/02/19/linux-e6-96-87-e4-bb-b6-e6-93-8d-e4-bd-9c-e5-91-bd-e4-bb-a4/"/>
+    <id>/2020/02/19/linux-e6-96-87-e4-bb-b6-e6-93-8d-e4-bd-9c-e5-91-bd-e4-bb-a4/</id>
+    <published>2020-02-19T13:21:22.000Z</published>
+    <updated>2020-03-04T06:11:44.971Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;pre&gt;&lt;code&gt;[root@localhost ~]# pwd       ----------- 显示当前工作目录 (/root)
+/root
+[root@localhost ~]# ls        -----------
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="linux" scheme="/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>初识Linux</title>
+    <link href="/2020/02/19/e5-88-9d-e8-af-86linux/"/>
+    <id>/2020/02/19/e5-88-9d-e8-af-86linux/</id>
+    <published>2020-02-19T11:59:36.000Z</published>
+    <updated>2020-03-04T06:11:44.971Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;使用VM创建好CenterOSMinial 后&lt;/p&gt;
+&lt;p&gt;使用ssh登录遇到问题&lt;/p&gt;
+&lt;p&gt;无法直接连接&lt;/p&gt;
+&lt;p&gt;因为&lt;/p&gt;
+&lt;p&gt;系统创建好后网卡默认是不工作的&lt;/p&gt;
+&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Apache的配置安装(windows环境)</title>
+    <link href="/2020/02/18/apache-e7-9a-84-e9-85-8d-e7-bd-ae-e5-ae-89-e8-a3-85windows-e7-8e-af-e5-a2-83/"/>
+    <id>/2020/02/18/apache-e7-9a-84-e9-85-8d-e7-bd-ae-e5-ae-89-e8-a3-85windows-e7-8e-af-e5-a2-83/</id>
+    <published>2020-02-18T09:24:08.000Z</published>
+    <updated>2020-03-04T06:11:44.971Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;所需文件&lt;/p&gt;
+&lt;p&gt;1、vm虚拟机；&lt;/p&gt;
+&lt;p&gt;2、Win7镜像(复制迅雷下载)：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;ed2k://|file|cn_windows_7_professional_with_sp1_x64_dvd_u_677031.iso|3420557
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>CenterOS+宝塔面板+Apache + MySQL + PHP语言环境 搭建WordPress博客(保姆级教程适合0基础,大佬请绕道)</title>
+    <link href="/2020/02/18/centeros-e5-ae-9d-e5-a1-94-e9-9d-a2-e6-9d-bfapache-mysql-php-e8-af-ad-e8-a8-80-e7-8e-af-e5-a2-83-e6-90-ad-e5-bb-bawordpress-e5-8d-9a-e5-ae-a2-e4-bf-9d-e5-a7-86-e7-ba-a7-e6-95-99-e7-a8-8b/"/>
+    <id>/2020/02/18/centeros-e5-ae-9d-e5-a1-94-e9-9d-a2-e6-9d-bfapache-mysql-php-e8-af-ad-e8-a8-80-e7-8e-af-e5-a2-83-e6-90-ad-e5-bb-bawordpress-e5-8d-9a-e5-ae-a2-e4-bf-9d-e5-a7-86-e7-ba-a7-e6-95-99-e7-a8-8b/</id>
+    <published>2020-02-18T05:03:50.000Z</published>
+    <updated>2020-03-04T06:11:44.971Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;首先我们需要一个实例,本次使用的系统是CenterOS8.0如图所示&lt;/p&gt;
+&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="0基础" scheme="/tags/0%E5%9F%BA%E7%A1%80/"/>
+    
+      <category term="教程" scheme="/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试</title>
+    <link href="/2020/02/13/e6-b5-8b-e8-af-95-trashed-2/"/>
+    <id>/2020/02/13/e6-b5-8b-e8-af-95-trashed-2/</id>
+    <published>2020-02-13T14:58:15.000Z</published>
+    <updated>2020-03-04T06:11:44.972Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>1080 240fps 烟花</title>
+    <link href="/2020/02/13/1080-240fps-e7-83-9f-e8-8a-b1-trashed/"/>
+    <id>/2020/02/13/1080-240fps-e7-83-9f-e8-8a-b1-trashed/</id>
+    <published>2020-02-13T14:50:57.000Z</published>
+    <updated>2020-03-04T06:11:44.971Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>测试</title>
+    <link href="/2020/02/13/e6-b5-8b-e8-af-95-trashed/"/>
+    <id>/2020/02/13/e6-b5-8b-e8-af-95-trashed/</id>
+    <published>2020-02-13T12:19:08.000Z</published>
+    <updated>2020-03-04T06:11:44.970Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;测试&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>世界，您好！</title>
+    <link href="/2020/02/13/hello-world-trashed/"/>
+    <id>/2020/02/13/hello-world-trashed/</id>
+    <published>2020-02-13T11:46:38.000Z</published>
+    <updated>2020-03-04T06:11:44.970Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;欢迎使用WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>期末实验</title>
+    <link href="/2019/06/15/e6-9c-9f-e6-9c-ab-e5-ae-9e-e9-aa-8c/"/>
+    <id>/2019/06/15/e6-9c-9f-e6-9c-ab-e5-ae-9e-e9-aa-8c/</id>
+    <published>2019-06-15T09:44:00.000Z</published>
+    <updated>2020-03-04T06:11:44.971Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;一、根据图示连接设备，设置计算机及相关端口IP地址&lt;/p&gt;
+&lt;p&gt;二、更改路由器、交换机名称 (xxx为自己姓名的拼音字母缩写，如张三则
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="Cisco" scheme="/tags/Cisco/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DHCPS动态地址分配+IP HELPER-ADDRESS</title>
+    <link href="/2019/06/09/dhcps-e5-8a-a8-e6-80-81-e5-9c-b0-e5-9d-80-e5-88-86-e9-85-8dip-helper-address/"/>
+    <id>/2019/06/09/dhcps-e5-8a-a8-e6-80-81-e5-9c-b0-e5-9d-80-e5-88-86-e9-85-8dip-helper-address/</id>
+    <published>2019-06-09T11:42:00.000Z</published>
+    <updated>2020-03-04T06:11:44.971Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;1：配置好IP地址；&lt;/p&gt;
+&lt;p&gt;2：为Router0配置&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Router&amp;gt;en
+Router#configure terminal
+Router(config)#router
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="Cisco" scheme="/tags/Cisco/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>三层交换机单臂路由</title>
+    <link href="/2019/05/10/e4-b8-89-e5-b1-82-e4-ba-a4-e6-8d-a2-e6-9c-ba-e5-8d-95-e8-87-82-e8-b7-af-e7-94-b1/"/>
+    <id>/2019/05/10/e4-b8-89-e5-b1-82-e4-ba-a4-e6-8d-a2-e6-9c-ba-e5-8d-95-e8-87-82-e8-b7-af-e7-94-b1/</id>
+    <published>2019-05-10T13:40:00.000Z</published>
+    <updated>2020-03-04T06:11:44.970Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;1：配置好IP地址；&lt;/p&gt;
+&lt;p&gt;2：为二层交换机配置&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Switch&amp;gt;en
+Switch#configure terminal
+Switch(config)#vlan
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="Cisco" scheme="/tags/Cisco/"/>
+    
+  </entry>
+  
+</feed>
